@@ -16,6 +16,7 @@ Me chamo Yago Grégio de Oliveira, tenho 16 anos e sou natural de Jaguriúna - S
 <h2 align="left">Stats</h2>
 
 ###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/YagoGregio/YagoGregio/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
