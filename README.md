@@ -2,4 +2,4 @@
 Estou cursando o ensino médio no Júlia Calhau Rodrigues.
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI-SP.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoGregio)](https://github.com/anuraghazra/github-readme-stats)
