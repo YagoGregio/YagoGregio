@@ -21,9 +21,3 @@ Meu foco é o desenvolvimento back-end e atualmente estudo C.
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franks-sys/franks-sys/output/pacman-contribution-graph-dark.svg">
 <img src="https://raw.githubusercontent.com/franks-sys/franks-sys/output/pacman-contribution-graph.svg">
 </picture>
-
-## Sobre mim
-
-Olá! Sou Yago Grégio, estudante de Desenvolvimento de Sistemas no SENAI-SP e aluno do ensino médio em São Paulo, Brasil.
-
-Meu foco é o desenvolvimento back-end e atualmente estudo C.
