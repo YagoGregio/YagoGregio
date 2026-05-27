@@ -15,3 +15,6 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/YagoGregio/YagoGregio/snake-output/snake.svg" alt="Snake animation" />
+
+###
