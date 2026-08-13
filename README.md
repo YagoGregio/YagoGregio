@@ -1,8 +1,7 @@
 <h2 align="left">About me</h2>
 
 ###
-Olá! Sou Yago Grégio, estudante de Desenvolvimento de Sistemas no SENAI-SP e aluno do ensino médio em Jaguariúna, Brasil.Meu foco é o desenvolvimento back-end e atualmente estou iniciando meus estudos em frontend
-
+Olá! Sou Yago Grégio, estudante de Desenvolvimento de Sistemas no SENAI-SP e aluno do ensino médio em Jaguariúna, Brasil.Meu foco é o desenvolvimento back-end e front-end.
 ## Studying
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
