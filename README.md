@@ -1,9 +1,7 @@
 # Olá, eu sou Yago Grégio
-
 **Estudante de Desenvolvimento de Sistemas | Front-end & Back-end**
 
 Sou estudante de Desenvolvimento de Sistemas no **SENAI-SP** e do ensino médio em Jaguariúna, Brasil.
-
 Tenho interesse em desenvolvimento **front-end e back-end**, buscando evoluir através de projetos práticos, estudos e novas tecnologias.
 
 ---
