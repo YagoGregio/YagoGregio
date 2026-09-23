@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Yago Grégio
+# Olá, eu sou Yago Grégio
 
 **Estudante de Desenvolvimento de Sistemas | Front-end & Back-end**
 
@@ -8,7 +8,7 @@ Tenho interesse em desenvolvimento **front-end e back-end**, buscando evoluir at
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 * 🎓 Estudante de Desenvolvimento de Sistemas — SENAI-SP
 * 💻 Focado em desenvolvimento web
@@ -19,7 +19,7 @@ Tenho interesse em desenvolvimento **front-end e back-end**, buscando evoluir at
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Linguagens
 
@@ -43,7 +43,7 @@ Tenho interesse em desenvolvimento **front-end e back-end**, buscando evoluir at
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 * JavaScript
 * HTML5
@@ -55,7 +55,7 @@ Tenho interesse em desenvolvimento **front-end e back-end**, buscando evoluir at
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
   <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
@@ -63,16 +63,9 @@ Tenho interesse em desenvolvimento **front-end e back-end**, buscando evoluir at
 </div>
 
 ---
-
-## 🔥 Atividade
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YagoGregio&theme=dark&hide_border=true" />
-</p>
-
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 * Aprofundar JavaScript
 * Desenvolver projetos web mais completos
@@ -84,7 +77,7 @@ Tenho interesse em desenvolvimento **front-end e back-end**, buscando evoluir at
 
 ---
 
-## 📫 Entre em contato
+## Entre em contato
 
 <p>
   <a href="mailto:yagogregio@gmail.com">
@@ -98,9 +91,5 @@ Tenho interesse em desenvolvimento **front-end e back-end**, buscando evoluir at
 ---
 
 <p align="center">
-  <i>"Transformando ideias em código, um projeto de cada vez."</i>
-</p>
-
-<p align="center">
-  <sub>© Yago Grégio</sub>
+  <sub>© Yago Grégio de Oliveira </sub>
 </p>
